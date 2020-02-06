@@ -3,8 +3,6 @@ from tkinter import ttk
 import requests
 from openpyxl import load_workbook
 import time
-# url = "https://data.cityofnewyork.us/api/id/xjfq-wh2d.json?$query=select *%2C %3Aid search '5043762' limit 100&$$query_timeout_seconds=60"
-#Drivers License
 
 class TlcDrivLicExpiration():
     
